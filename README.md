@@ -65,6 +65,3 @@
 + `!>corona <country name | city name>`
 + `!>global`
 + `!>stats <country name | city name>`
-
-# Utility
-+ `review <1-5> <feedback>`
