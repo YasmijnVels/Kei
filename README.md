@@ -31,15 +31,15 @@ some commands are premium!
 + `!>daily` (daily work)
 + `!>leaderboard` (to show the top 10 in the guild)
 + `!>monthly` (monthly work)
-+ `!>pay` (to give money to your friends account)
-+ `!>rob` (to rob a random peron in the guild)
++ `!>pay [user]` (to give money to your friends account)
++ `!>rob [user]` (to rob a random peron in the guild)
 + `!>weekly` (weekly work)
-+ `!>work` (to work for a company)
++ `!>work [prostitute | constructor | programmer]` (to work for a company)
 
 # Leveling
 + `!>rankleaderboard` (to show the top 3 in the guild)
-+ `!>rank` (show the stable rank image)
-+ `!>rankbeta` (to show the beta rank image)
++ `!>rank <user>` (show the stable rank image)
++ `!>rankbeta <user>` (to show the beta rank image)
 
 # Ticket
 + `!>add [username | nickname | mention | ID](optional)` (to add someone to the ticket) `[premium]`
@@ -53,7 +53,7 @@ some commands are premium!
 + `!>gayrate [user]`
 + `!>joke`
 + `!>meme`
-+ `!>motivation motivation`
++ `!>motivation`
 + `!>piseinamerda`
 + `!>randurban`
 + `!>roast [user]`
