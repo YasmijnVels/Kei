@@ -1,9 +1,23 @@
+# Ria
+
+### support server
+
+https://discord.gg/qbnq6mPdyb
+
+Ria bot was created by many questions whether I wanted to make a bot again.
+thus I started to create a bot again.
+
+below you will find the commands that the bot currently has.
+
+some commands are premium!
+
 # Config
 
 + `!>setprefix <?>`(to set a new prefix)
 + `!>setrankchannel #something` (to set the rankchannel and enable the xp mode)
 + `!>setrankmessage for example [hey, {author} you get leveled up to level **{level}** keep it going 🥳]` (to set the rank message)
 + `!>setwelcomechannel #something`(to set the welcome channel an canvas image will send if a user joined)
++ `!>setleavechannel #something`(to set the leave channel an canvas image will send if a user joined)
 
 # Bot
 + `!>info` (to show the bot info)
@@ -28,9 +42,9 @@
 + `!>rankbeta` (to show the beta rank image)
 
 # Ticket
-+ `!>add` (to add someone to the ticket) `[premium]`
++ `!>add [username | nickname | mention | ID](optional)` (to add someone to the ticket) `[premium]`
 + `!>close` (to close the ticket)
-+ `!>add` (to add someone to the ticket) `[premium]`
++ `!>remove [username | nickname | mention | ID](optional)` (to add someone to the ticket) `[premium]`
 + `!>new` (to create a ticket)
 
 # Fun
@@ -60,6 +74,9 @@
 + `!>ban [name | nickname | mention | ID] <reason> (optional)` (to ban a user)
 + `!>kick [name | nickname | mention | ID] <reason> (optional)` (to kick a user)
 + `!>nuke` (to nuke the current channel)
++ `!>clear [1-100]` (to clear the chat)
++ `!>lockdown` (to lock the current channel)
++ `!>unlock` (to unlock the current channel)
 
 # Covid 19
 + `!>corona <country name | city name>`
