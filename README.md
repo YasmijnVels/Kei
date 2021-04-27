@@ -1,10 +1,6 @@
-# Ria
+# Kei
 
-### support server
-
-https://discord.gg/qbnq6mPdyb
-
-Ria bot was created by many questions whether I wanted to make a bot again.
+Kei bot was created by many questions whether I wanted to make a bot again.
 thus I started to create a bot again.
 
 below you will find the commands that the bot currently has.
